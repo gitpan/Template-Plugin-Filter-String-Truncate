@@ -26,7 +26,7 @@ my %WriteMakefileArgs = (
                                            },
                        'ABSTRACT' => 'String::Truncate filter for Template::Toolkit',
                        'EXE_FILES' => [],
-                       'VERSION' => '0.01',
+                       'VERSION' => '0.02',
                        'PREREQ_PM' => {
                                         'String::Truncate' => '0',
                                         'Template::Plugin::Filter' => '0'

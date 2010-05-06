@@ -24,4 +24,4 @@ resources:
   bugtracker: http://rt.cpan.org/Public/Dist/Display.html?Name=Template-Plugin-Filter-String-Truncate
   homepage: http://search.cpan.org/dist/Template-Plugin-Filter-String-Truncate/
   repository: http://github.com/mschout/template-plugin-filter-string-truncate
-version: 0.01
+version: 0.02

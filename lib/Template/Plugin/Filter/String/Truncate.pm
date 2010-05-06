@@ -1,6 +1,6 @@
 package Template::Plugin::Filter::String::Truncate;
 BEGIN {
-  $Template::Plugin::Filter::String::Truncate::VERSION = '0.01';
+  $Template::Plugin::Filter::String::Truncate::VERSION = '0.02';
 }
 
 # ABSTRACT: String::Truncate filter for Template::Toolkit
@@ -42,7 +42,7 @@ Template::Plugin::Filter::String::Truncate - String::Truncate filter for Templat
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 
